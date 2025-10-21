@@ -67,9 +67,9 @@ Process multiple job listings and generate professional emails in seconds.
 
 <div align="center">
 
-| Home Interface | Job Analysis | Email Generation |
-|----------------|--------------|------------------|
-| ![Home Screen](demo/home.png) | ![Job Extraction](demo/job-extraction.png) | ![Generated Email](demo/email-output.png) |
+| Home Interface | Email Generation |
+|----------------|------------------|
+| ![Home Screen](demo/home.png) | ![Generated Email](demo/email-output.png) |
 
 </div>
 
